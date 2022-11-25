@@ -17,7 +17,7 @@
 		<jsp.version>2.1</jsp.version>
 		<commons.dbcp.version>1.3</commons.dbcp.version>
 		<kaptcha.version>2.3.2</kaptcha.version>
-		<jackson.version>2.3.2</jackson.version>
+		<jackson.version>2.12.7.1</jackson.version>
 	</properties>
 
 	<build>
